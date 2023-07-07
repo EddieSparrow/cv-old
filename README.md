@@ -1,1 +1,1 @@
-https://EddieSparrow.github.io/rsschool-cv/cv
+https://EddieSparrow.github.io/rsschool-cv/cvgit 
